@@ -1,3 +1,12 @@
 Pirma uzduotis:
 
 Naujas.txt
+sadsad 
+
+sadsadas
+asd
+aasd
+
+pridejau labas.txt ir jpg bet jo neturi rodyti 
+asdsad
+asdaasd
