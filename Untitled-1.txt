@@ -12,3 +12,6 @@ asdsad
 asdaasd
 yra dar vienas paveikslelis 
 sadsad
+pakeistas git igonre
+dabar veikia .gitignore
+pridetas Papildomas
