@@ -1,4 +1,4 @@
-.log
-.tmp
-.jpg
-.img
+*.log
+*.tmp
+*.jpg
+*.img
