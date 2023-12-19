@@ -10,3 +10,5 @@ aasd
 pridejau labas.txt ir jpg bet jo neturi rodyti 
 asdsad
 asdaasd
+yra dar vienas paveikslelis 
+sadsad
